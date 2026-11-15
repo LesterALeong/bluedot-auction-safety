@@ -1,0 +1,3199 @@
+{
+  "planned": 1280,
+  "observed": 1280,
+  "attempted": 1280,
+  "valid": 1276,
+  "status_counts": {
+    "valid": 1276,
+    "invalid": 0,
+    "operational": 4,
+    "quota": 0,
+    "missing": 0
+  },
+  "accounting_status_counts": {
+    "valid": 1276,
+    "invalid": 0,
+    "operational": 4,
+    "quota": 0,
+    "missing": 0
+  },
+  "unknown": 4,
+  "unlogged_missing": 0,
+  "over_planned": 0,
+  "cells": {
+    "original": {
+      "short": {
+        "compliant": {
+          "gpt-6.1-sol": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 39,
+            "status_counts": {
+              "valid": 39,
+              "invalid": 0,
+              "operational": 1,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 39,
+              "invalid": 0,
+              "operational": 1,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 1,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 39
+            },
+            "verdict_counts": {
+              "compliant": 39,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 39,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 39,
+                "denominator": 40,
+                "rate": 0.975
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6.1-terra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6-astra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6-luna": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 39,
+            "status_counts": {
+              "valid": 39,
+              "invalid": 0,
+              "operational": 1,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 39,
+              "invalid": 0,
+              "operational": 1,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 1,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 39
+            },
+            "verdict_counts": {
+              "compliant": 39,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 39,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 39,
+                "denominator": 40,
+                "rate": 0.975
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          }
+        },
+        "violation": {
+          "gpt-6.1-sol": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6.1-terra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6-astra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6-luna": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          }
+        }
+      },
+      "cluttered": {
+        "compliant": {
+          "gpt-6.1-sol": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6.1-terra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6-astra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6-luna": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          }
+        },
+        "violation": {
+          "gpt-6.1-sol": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6.1-terra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6-astra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          },
+          "gpt-6-luna": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 0,
+              "exact": 0,
+              "substantive_miss": 0,
+              "exact_rate": null
+            }
+          }
+        }
+      }
+    },
+    "revised": {
+      "short": {
+        "compliant": {
+          "gpt-6.1-sol": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6.1-terra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6-astra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6-luna": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          }
+        },
+        "violation": {
+          "gpt-6.1-sol": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6.1-terra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6-astra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6-luna": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          }
+        }
+      },
+      "cluttered": {
+        "compliant": {
+          "gpt-6.1-sol": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6.1-terra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6-astra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 39,
+            "status_counts": {
+              "valid": 39,
+              "invalid": 0,
+              "operational": 1,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 39,
+              "invalid": 0,
+              "operational": 1,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 1,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 39
+            },
+            "verdict_counts": {
+              "compliant": 39,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 39,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 39,
+                "denominator": 40,
+                "rate": 0.975
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 39,
+              "exact": 39,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6-luna": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 40,
+              "violation": 0,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 0,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "violation": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          }
+        },
+        "violation": {
+          "gpt-6.1-sol": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6.1-terra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 39,
+            "status_counts": {
+              "valid": 39,
+              "invalid": 0,
+              "operational": 1,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 39,
+              "invalid": 0,
+              "operational": 1,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 1,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 39
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 39,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 39,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 39,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 39,
+                "denominator": 40,
+                "rate": 0.975
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 39,
+                "denominator": 40,
+                "rate": 0.975
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 39,
+              "exact": 39,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6-astra": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          },
+          "gpt-6-luna": {
+            "planned": 40,
+            "observed": 40,
+            "attempted": 40,
+            "valid": 40,
+            "status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "accounting_status_counts": {
+              "valid": 40,
+              "invalid": 0,
+              "operational": 0,
+              "quota": 0,
+              "missing": 0
+            },
+            "unknown": 0,
+            "unlogged_missing": 0,
+            "over_planned": 0,
+            "denominators": {
+              "planned": 40,
+              "attempted": 40,
+              "valid": 40
+            },
+            "verdict_counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0
+            },
+            "counts": {
+              "compliant": 0,
+              "violation": 40,
+              "uncertain": 0,
+              "invalid_choice": 0,
+              "abstention": 0,
+              "confirmed_detection": 40,
+              "false_clearance": 0,
+              "false_alarm": 0
+            },
+            "rates": {
+              "compliant": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "violation": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "uncertain": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "invalid_choice": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "abstention": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "confirmed_detection": {
+                "count": 40,
+                "denominator": 40,
+                "rate": 1.0
+              },
+              "false_clearance": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              },
+              "false_alarm": {
+                "count": 0,
+                "denominator": 40,
+                "rate": 0.0
+              }
+            },
+            "date_citations": {
+              "eligible": 40,
+              "exact": 40,
+              "substantive_miss": 0,
+              "exact_rate": 1.0
+            }
+          }
+        }
+      }
+    }
+  },
+  "paired": {
+    "by_model": {
+      "gpt-6.1-sol": {
+        "short": {
+          "paired_count": 40,
+          "cluster_count": 40,
+          "excluded_unknown_or_unpaired": 0,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        },
+        "cluttered": {
+          "paired_count": 40,
+          "cluster_count": 40,
+          "excluded_unknown_or_unpaired": 0,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        },
+        "aggregate": {
+          "paired_count": 80,
+          "cluster_count": 40,
+          "excluded_unknown_or_unpaired": 0,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        }
+      },
+      "gpt-6.1-terra": {
+        "short": {
+          "paired_count": 40,
+          "cluster_count": 40,
+          "excluded_unknown_or_unpaired": 0,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        },
+        "cluttered": {
+          "paired_count": 39,
+          "cluster_count": 39,
+          "excluded_unknown_or_unpaired": 1,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        },
+        "aggregate": {
+          "paired_count": 79,
+          "cluster_count": 40,
+          "excluded_unknown_or_unpaired": 1,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        }
+      },
+      "gpt-6-astra": {
+        "short": {
+          "paired_count": 40,
+          "cluster_count": 40,
+          "excluded_unknown_or_unpaired": 0,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        },
+        "cluttered": {
+          "paired_count": 40,
+          "cluster_count": 40,
+          "excluded_unknown_or_unpaired": 0,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        },
+        "aggregate": {
+          "paired_count": 80,
+          "cluster_count": 40,
+          "excluded_unknown_or_unpaired": 0,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        }
+      },
+      "gpt-6-luna": {
+        "short": {
+          "paired_count": 40,
+          "cluster_count": 40,
+          "excluded_unknown_or_unpaired": 0,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        },
+        "cluttered": {
+          "paired_count": 40,
+          "cluster_count": 40,
+          "excluded_unknown_or_unpaired": 0,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        },
+        "aggregate": {
+          "paired_count": 80,
+          "cluster_count": 40,
+          "excluded_unknown_or_unpaired": 0,
+          "delta": 0.0,
+          "delta_percentage_points": 0.0,
+          "bootstrap_95": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_95_percentage_points": {
+            "lower": 0.0,
+            "upper": 0.0
+          },
+          "bootstrap_seed": 0,
+          "bootstrap_replicates": 10000
+        }
+      }
+    },
+    "aggregate": {
+      "paired_count": 319,
+      "cluster_count": 40,
+      "excluded_unknown_or_unpaired": 1,
+      "delta": 0.0,
+      "delta_percentage_points": 0.0,
+      "bootstrap_95": {
+        "lower": 0.0,
+        "upper": 0.0
+      },
+      "bootstrap_95_percentage_points": {
+        "lower": 0.0,
+        "upper": 0.0
+      },
+      "bootstrap_seed": 0,
+      "bootstrap_replicates": 10000
+    },
+    "definition": "revised violation detection minus original violation detection among paired valid judgments; aggregate bootstrap resamples pair clusters"
+  }
+}

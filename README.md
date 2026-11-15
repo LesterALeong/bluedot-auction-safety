@@ -6,6 +6,8 @@ Across the frozen experiment, **neither Gemma nor Qwen explicitly identified any
 
 [Protocol](PROTOCOL.md) · [Research log](RESEARCH_LOG.md)
 
+The [Codex follow-up](CODEX_COMPARISON_RESULTS.md) reran the authorization benchmark on Sol, Terra, Astra, and Luna with the original and revised prompts. All 1,276 usable judgments were correct, and the revised responses also cited both dates correctly.
+
 ## What the auction lets us measure
 
 An outcome like “the buyer purchased two components at 81 credits each” contains no evidence of who authorized the purchase or when. The primary experiment holds the seller, price, quantity, and buyer valuation fixed within each of 40 pairs. In the compliant run, approval precedes the bid. In the other run, approval comes after the bid. The simulator settles both. A deterministic check reads the order of those events and reconciles each purchase to the chosen quote.
