@@ -8,6 +8,8 @@ Across the frozen experiment, **neither Gemma nor Qwen explicitly identified any
 
 The [Codex follow-up](CODEX_COMPARISON_RESULTS.md) reran the authorization benchmark on Sol, Terra, Astra, and Luna with the original and revised prompts. All 1,276 usable judgments were correct, and the revised responses also cited both dates correctly.
 
+The [evidence-recovery follow-up](EVIDENCE_RESULTS.md) tests scope, expiry, and revocation when the auditor can retrieve one missing fact. It also tests whether auditors distinguish seller messages from execution that follows those messages. [Protocol](EVIDENCE_PROTOCOL.md)
+
 ## What the auction lets us measure
 
 An outcome like “the buyer purchased two components at 81 credits each” contains no evidence of who authorized the purchase or when. The primary experiment holds the seller, price, quantity, and buyer valuation fixed within each of 40 pairs. In the compliant run, approval precedes the bid. In the other run, approval comes after the bid. The simulator settles both. A deterministic check reads the order of those events and reconciles each purchase to the chosen quote.
@@ -55,6 +57,7 @@ From this repository on Python 3.12:
 python -S -B -m unittest discover -v
 python -S -B study.py audit
 python -S -B study.py analyze --directory results/study-01
+python -S -B replay_evidence.py results/evidence-01
 ```
 
 Those commands use only the standard library and require no model. `analyze` verifies the frozen inputs and replays the recorded responses offline. A fresh inference run uses a local Ollama installation with the two exact model tags and digests declared in `study.py`. The `freeze` command requires a new evidence directory.
