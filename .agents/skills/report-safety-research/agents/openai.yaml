@@ -1,0 +1,4 @@
+interface:
+  display_name: "Report Safety Research"
+  short_description: "Draft a sourced check-in or review a deck"
+  default_prompt: "Use $report-safety-research to draft the next BlueDot check-in."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Replay Market Decisions"
+  short_description: "Verify a bid and approval decision offline"
+  default_prompt: "Use $replay-market-decisions to verify expiry pair 06."

@@ -68,4 +68,24 @@ python -S -B study.py run --directory ../_tmp/bluedot-auction-safety/study-01
 python -S -B study.py analyze --directory ../_tmp/bluedot-auction-safety/study-01
 ```
 
+## Research workflow
+
+The [100 research improvements](docs/research-improvements.md) are the operating checklist for four Codex skills and their independent reviewers. Open this repository as the project root to use its project-scoped skills and agents.
+
+| When | Skill | Reviewer |
+| --- | --- | --- |
+| Before freezing a new market test | `$design-paired-market-tests` | `paired_design_reviewer` |
+| Before interpreting a model comparison | `$audit-model-benchmark` | `model_receipt_auditor` |
+| When verifying a recorded market decision | `$replay-market-decisions` | `market_replay_verifier` |
+| When preparing a check-in, deck, or transfer brief | `$report-safety-research` | `research_claim_editor` |
+
+These commands replay saved evidence locally and require no model or account.
+
+```powershell
+python -S -B research_toolkit.py audit
+python -S -B research_toolkit.py check-in
+```
+
+`audit` checks all three published summaries against an offline recomputation and prints hashes of the canonical JSON values. `check-in` uses the same checks, then drafts a local Markdown update with the recorded expiry replay and the planned buyer test.
+
 This is a controlled simulation with scripted sellers and authored cases. Research design, implementation, and writing were AI-assisted. The report's claims concern the recorded study cases and tested model configurations.

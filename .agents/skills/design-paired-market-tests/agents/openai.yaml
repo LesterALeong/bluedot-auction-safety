@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Paired Market Tests"
+  short_description: "Design and review a paired market experiment"
+  default_prompt: "Use $design-paired-market-tests to review the next buyer experiment."

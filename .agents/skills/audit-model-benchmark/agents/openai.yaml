@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Model Benchmarks"
+  short_description: "Reconcile model runs, canaries, and coverage"
+  default_prompt: "Use $audit-model-benchmark to audit the four-model comparison."
